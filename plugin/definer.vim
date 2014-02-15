@@ -14,7 +14,6 @@ function! DefineWord(currentWord)
 python << endOfPython
 
 from definer import *
-
 currentWord = vim.eval("a:currentWord")
 DefineWord(currentWord);
 endOfPython

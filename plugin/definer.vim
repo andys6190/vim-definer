@@ -28,3 +28,4 @@ endfunction
 "  Expose our commands to the user
 " --------------------------------
 command! Definer call VimDefineWord()
+nmap <F2> :Definer<CR>

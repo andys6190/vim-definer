@@ -1,0 +1,2 @@
+wordnik==2.1.2
+wsgiref==0.1.2

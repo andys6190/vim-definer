@@ -12,7 +12,11 @@ def DefineWord(word):
 
     try:
         definitions = wordApi.getDefinitions(word)
-        print definitions[0].text
+
+        if definitions is not None:
+            print definitions[0].text
+        else:
+            print "Word not found"
     except Exception, e:
-        print "Wordnik authentication error"
+        print "Authentication Error"
 

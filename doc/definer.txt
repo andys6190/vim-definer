@@ -1,0 +1,25 @@
+*definer.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                              *definer*
+
+    1. Intro .................................................. |definer-intro|
+    2. Requirements .................................... |definer-requirements|
+    3. Usage .................................................. |definer-usage|
+    4. Licence .............................................. |definer-licence|
+===============================================================================
+1. Intro                                                        *definer-intro*
+
+Overview of plugin
+
+2. Requirements                                          *definer-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                        *definer-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                                    *definer-licence*
+
+This is open source make sure to include a licence
